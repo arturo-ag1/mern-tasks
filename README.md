@@ -1,1 +1,2 @@
-"# mern-tasks - Still working on it!" 
+# mern-tasks
+Proyecto personal - Creación de lista to-do utilizando el stack MERN
